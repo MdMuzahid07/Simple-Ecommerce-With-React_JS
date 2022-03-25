@@ -1,0 +1,12 @@
+.cart-container {
+    max-width: 100%;
+    right: 5rem;
+    top: 0;
+    height: 100vh;
+    position: fixed;
+    background-color: rgb(82, 82, 82);
+    text-align: center;
+    padding: 1rem;
+    color: white;
+    margin-top: 70px;
+}
